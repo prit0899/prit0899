@@ -4,7 +4,7 @@
 * 👩 Pronouns: He/Him  
 
 * 🔭 I’m currently working on  
-  Building scalable mobile applications with a focus on performance, clean architecture, and real-world product impact  
+  Building scalable applications with a focus on performance, clean architecture, and real-world product impact  
 
 * 🌱 I’m currently learning  
   React Native deeply (bridging, performance tuning, native modules) + advanced system design for mobile apps + Full Stack Development
