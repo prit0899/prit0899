@@ -47,7 +47,8 @@ Scaling apps to millions of users · Backend architecture decisions · Integrati
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 ### 📫 Connect
 
 <a href="https://www.linkedin.com/in/prit-yagnik/">
