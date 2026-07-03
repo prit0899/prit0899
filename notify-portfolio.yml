@@ -1,0 +1,21 @@
+name: Notify Portfolio on Update
+
+# Add this file to EACH of your project repos (not the portfolio repo).
+# It pings your portfolio repo so it rebuilds the projects table right away,
+# instead of waiting for the daily schedule.
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger portfolio update
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.PORTFOLIO_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/your-username/your-portfolio-repo/dispatches \
+            -d '{"event_type":"project_updated"}'

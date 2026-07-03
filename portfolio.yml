@@ -1,0 +1,34 @@
+# Add this file to each of your project repositories (in the root directory)
+# The portfolio action will automatically read this and use it to build your portfolio
+
+title: "Expense Tracker"
+
+description: "AI-powered expense tracker with OCR and cloud sync"
+
+stack:
+  - Swift
+  - SwiftUI
+  - Firebase
+  - RevenueCat
+  - FastAPI
+  - OpenAI
+
+tools:
+  - Xcode
+  - GitHub Actions
+  - Figma
+  - Firebase Console
+
+features:
+  - OCR Bill Recognition
+  - AI Categorization
+  - PDF Export
+  - Cloud Sync
+  - Premium Subscription
+  - Offline Support
+
+# One of: Active, Completed, Archived, In Development
+status: "Active"
+
+# Set to true to show this project first in your portfolio
+featured: false

@@ -17,14 +17,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "24"
 
       - name: Fetch repo data and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: your-github-username   # <-- change this
+          GH_USERNAME: your-github-username
         run: node scripts/update-projects.mjs
 
       - name: Commit changes if anything updated
