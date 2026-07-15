@@ -164,6 +164,7 @@ Logistic Regression model trained on 15,000 HR records (75% accuracy, 76% recall
 <!-- START PROJECTS -->
 ## 📚 Featured Projects
 
+- **[MiniMart](https://github.com/prit0899/MiniMart)** - No description
 - **[prit0899](https://github.com/prit0899/prit0899)** - No description
 - **[camera](https://github.com/prit0899/camera)** - No description
 - **[phoneTroubleShootMLModel](https://github.com/prit0899/phoneTroubleShootMLModel)** - No description
