@@ -159,3 +159,19 @@ Logistic Regression model trained on 15,000 HR records (75% accuracy, 76% recall
 <a href="https://www.linkedin.com/in/prit-yagnik/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+
+<!-- START PROJECTS -->
+## 📚 Featured Projects
+
+- **[prit0899](https://github.com/prit0899/prit0899)** - No description
+- **[camera](https://github.com/prit0899/camera)** - No description
+- **[phoneTroubleShootMLModel](https://github.com/prit0899/phoneTroubleShootMLModel)** - No description
+- **[portfolio](https://github.com/prit0899/portfolio)** - No description ⭐ 1
+- **[phonetroubleshootios](https://github.com/prit0899/phonetroubleshootios)** - No description
+- **[employeeAttritionPredictoriOS](https://github.com/prit0899/employeeAttritionPredictoriOS)** - No description
+- **[employeeAttritionPredictorBackhand](https://github.com/prit0899/employeeAttritionPredictorBackhand)** - No description
+- **[dynamic-form-builder-ios](https://github.com/prit0899/dynamic-form-builder-ios)** - Offline SwiftUI app that renders a dynamic, server-driven form entirely from a local JSON payload — polymorphic Codable parsing, global theming, validation, and graceful handling of unknown component types.
+- **[housePricingDashbord](https://github.com/prit0899/housePricingDashbord)** - No description
+
+<!-- END PROJECTS -->
