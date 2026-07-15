@@ -24,7 +24,7 @@ jobs:
       - name: Fetch repo data and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: your-github-username   # <-- change this
+          GH_USERNAME: prit0899   # <-- change this
         run: node scripts/update-projects.mjs
 
       - name: Commit changes if anything updated
