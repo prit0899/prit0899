@@ -5,9 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # Runs daily at 00:00 UTC
+    # Runs daily at 12:00 AM UTC
     - cron: '0 0 * * *'
-  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
@@ -20,18 +19,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          
+        
       - name: Setup Deno
         uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x
           
       - name: Fetch repo data and update README
-        run: deno run --allow-net --allow-read --allow-write --allow-env ./scripts/update-portfolio.ts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: deno run --allow-net --allow-read --allow-write --allow-env ./update-portfolio.ts
           
       - name: Commit and push changes
         run: |
