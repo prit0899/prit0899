@@ -40,11 +40,16 @@ Scaling apps to millions of users · Backend architecture decisions · Integrati
 <!-- START PROJECTS -->
 ## 📚 Featured Projects
 
-- **[MiniMart](https://github.com/prit0899/MiniMart)** 
-- **[phoneTroubleShootMLModel](https://github.com/prit0899/phoneTroubleShootMLModel)** 
-- **[phonetroubleshootios](https://github.com/prit0899/phonetroubleshootios)** 
-- **[employeeAttritionPredictorBackhand](https://github.com/prit0899/employeeAttritionPredictorBackhand)** 
-- **[housePricingDashbord](https://github.com/prit0899/housePricingDashbord)** 
+- **[prit0899](https://github.com/prit0899/prit0899)** - No description
+- **[MiniMart](https://github.com/prit0899/MiniMart)** - No description
+- **[camera](https://github.com/prit0899/camera)** - No description
+- **[phoneTroubleShootMLModel](https://github.com/prit0899/phoneTroubleShootMLModel)** - No description
+- **[portfolio](https://github.com/prit0899/portfolio)** - No description ⭐ 1
+- **[phonetroubleshootios](https://github.com/prit0899/phonetroubleshootios)** - No description
+- **[employeeAttritionPredictoriOS](https://github.com/prit0899/employeeAttritionPredictoriOS)** - No description
+- **[employeeAttritionPredictorBackhand](https://github.com/prit0899/employeeAttritionPredictorBackhand)** - No description
+- **[dynamic-form-builder-ios](https://github.com/prit0899/dynamic-form-builder-ios)** - Offline SwiftUI app that renders a dynamic, server-driven form entirely from a local JSON payload — polymorphic Codable parsing, global theming, validation, and graceful handling of unknown component types.
+- **[housePricingDashbord](https://github.com/prit0899/housePricingDashbord)** - No description
 
 <!-- END PROJECTS -->
 
